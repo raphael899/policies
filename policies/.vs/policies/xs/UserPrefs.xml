@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{E98CB869-EC72-4EEF-8EB5-EE016F629FEC}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ApiTest/UnitTest1.cs">
+    <Files>
+      <File FileName="ApiTest/UnitTest1.cs" Line="155" Column="78" />
+      <File FileName="policies/Controllers/PoliciesController.cs" Line="60" Column="14" />
+      <File FileName="policies/Startup.cs" Line="36" Column="1" />
+      <File FileName="policies/Controllers/UsersController.cs" Line="40" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="policies" expanded="True">
+            <Node name="ApiTest" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+            <Node name="policies" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="policies" expanded="True">
+            <Node name="ApiTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.policies PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
